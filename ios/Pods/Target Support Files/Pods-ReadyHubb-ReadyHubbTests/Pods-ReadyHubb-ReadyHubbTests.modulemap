@@ -1,0 +1,6 @@
+module Pods_ReadyHubb_ReadyHubbTests {
+  umbrella header "Pods-ReadyHubb-ReadyHubbTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

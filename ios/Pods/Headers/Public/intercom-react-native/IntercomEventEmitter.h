@@ -1,0 +1,1 @@
+../../../../../node_modules/@intercom/intercom-react-native/ios/IntercomEventEmitter.h

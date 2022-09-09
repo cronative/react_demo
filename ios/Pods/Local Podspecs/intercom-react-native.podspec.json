@@ -1,0 +1,32 @@
+{
+  "name": "intercom-react-native",
+  "version": "1.1.1",
+  "summary": "React Native wrapper to bridge our iOS and Android SDK",
+  "homepage": "https://www.intercom.com/",
+  "license": "MIT",
+  "authors": {
+    "name": "Intercom",
+    "url": "https://www.intercom.com/"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/intercom/intercom-react-native.git",
+    "tag": "1.1.1"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "resource_bundles": {
+    "IntercomFramework": [
+      "ios/assets/*"
+    ]
+  },
+  "dependencies": {
+    "React-Core": [
+
+    ],
+    "Intercom": [
+      "~> 10.3.0"
+    ]
+  }
+}
